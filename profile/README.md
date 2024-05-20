@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ```
-// Developer Web Platform - README in a Funny Way
+// PandaStack Web Platform
 
-console.log("Welcome to the Developer Web Platform!");
+console.log("Welcome to the PandaStack!");
 console.log("Where all your development dreams come true... or at least become slightly less nightmarish.");
 
 const platform = {
