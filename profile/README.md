@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 ```
 // Developer Web Platform - README in a Funny Way
 
@@ -81,7 +79,4 @@ platform.features.serviceIntegrations();
 platform.features.hosting();
 platform.install();
 platform.usage();
-
 ```
-
--->
